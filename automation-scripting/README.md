@@ -447,10 +447,3 @@ ssh user@server 'bash -s' < local_script.sh
 ```
 
 
-
-
-🔗 **GitHub:** [@NotHarshhaa](https://github.com/NotHarshhaa)  
-📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💬 **Telegram Community:** [Join Here](https://t.me/prodevopsguy)  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
