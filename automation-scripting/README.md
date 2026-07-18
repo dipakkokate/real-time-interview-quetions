@@ -446,30 +446,8 @@ jobs:
 ssh user@server 'bash -s' < local_script.sh
 ```
 
-### **60. How do you ensure idempotency in an Ansible playbook?**  
 
-Ansible modules ensure **idempotency** by only making changes when needed.  
 
----
-
-## **📢 Contribute & Stay Updated**  
-
-💡 **Want to contribute?**  
-We **welcome contributions!** If you have insights, new tools, or improvements, feel free to submit a **pull request**.  
-
-📌 **How to Contribute?**
-
-- Read the **[CONTRIBUTING.md](https://github.com/NotHarshhaa/DevOps-Interview-Questions/blob/master/CONTRIBUTING.md)** guide.  
-- Fix errors, add missing topics, or suggest improvements.  
-- Submit a **pull request** with your updates.  
-
-📢 **Stay Updated:**  
-⭐ **Star the repository** to get notified about new updates and additions.  
-💬 **Join discussions** in **[GitHub Issues](https://github.com/NotHarshhaa/DevOps-Interview-Questions/issues)** to suggest improvements.  
-
----
-
-## **🌍 Community & Support**  
 
 🔗 **GitHub:** [@NotHarshhaa](https://github.com/NotHarshhaa)  
 📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
